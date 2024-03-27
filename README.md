@@ -19,11 +19,20 @@ Welcome to follow and star!
 
 ### papers
 
-- [Deep-Reinforcement-Learning-under-Partial-Observability](https://cdn.aaai.org/ocs/11673/11673-51288-1-PB.pdf)
+- [Deep Recurrent Q-Learning for Partially Observable MDPs](https://cdn.aaai.org/ocs/11673/11673-51288-1-PB.pdf)
   - Matthew Hausknecht and Peter Stone
   - Key: RNN, DQN
   - Code: 
   - ExpEnv: Atari
+
+- [Deep Transformer Q-Networks for Partially Observable Reinforcement Learning](https://arxiv.org/abs/2206.01078)
+  - Kevin Esslinger, Robert Platt, Christopher Amato
+  - Key: Transformer, DQN
+  - Code:
+  - ExpEnv:
+  
+### benchmarks 
+
 
 
 ## License
