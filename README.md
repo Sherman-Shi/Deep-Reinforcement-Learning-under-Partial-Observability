@@ -31,7 +31,7 @@ Welcome to follow and star!
 - [Deep Transformer Q-Networks for Partially Observable Reinforcement Learning](https://arxiv.org/abs/2206.01078)
   - Kevin Esslinger, Robert Platt, Christopher Amato
   - Key: Transformer, DQN
-  - Code:
+  - Code: [Original Code Base](https://github.com/kevslinger/DTQN)
   - ExpEnv:
 
 #### 2015
