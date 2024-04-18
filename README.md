@@ -9,6 +9,7 @@ Welcome to follow and star!
   - [Table of Contents](#Table-of-Contents)
   - [Overview of POMDP in RL](#overview-of-diffusion-model-in-rl)
   - [Papers](#papers)
+  - [Benchmarks](#benchmarks)
   - [License](#license)
 
 ## Overview of PODMP in RL
